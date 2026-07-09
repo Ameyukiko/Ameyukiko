@@ -81,6 +81,8 @@ creative design, and intuitive user experiences.
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&perline=8"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -93,7 +95,7 @@ creative design, and intuitive user experiences.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 # 💡 Quote
 
@@ -103,4 +105,3 @@ creative design, and intuitive user experiences.
 
 </div>
 
----
