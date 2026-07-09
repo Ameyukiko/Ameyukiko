@@ -1,25 +1,25 @@
 <!-- ========================= Banner ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:4f4f4f&height=230&section=header&text=Aphichaya%20Suppakitkumjorn&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:B5FFFC,100:CDB4DB&height=240&section=header&text=Aphichaya%20Suppakitkumjorn&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6E7681&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;UX%2FUI+Designer;Front-end+Developer;Full-Stack+Web+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF8FAB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;UX%2FUI+Designer;Front-end+Developer;Full-Stack+Web+Developer;Designing+Beautiful+User+Experiences" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aphichaya-sup">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-B5EAEA?style=for-the-badge&logo=linkedin&logoColor=333333"/>
   </a>
   <a href="mailto:y.eepun@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FFB5C2?style=for-the-badge&logo=gmail&logoColor=333333"/>
   </a>
 </p>
 
 ---
 
-# 👋 About Me
+# 🌷 About Me
 
 ```ts
 const aphichaya = {
@@ -30,7 +30,7 @@ const aphichaya = {
         "Full Stack Development",
         "Responsive Web Design"
     ],
-
+    style: "Clean, colorful and user-friendly experiences"
 }
 ```
 
@@ -41,32 +41,32 @@ const aphichaya = {
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nextjs,tailwind,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nextjs,tailwind,bootstrap&theme=light"/>
 </p>
 
 ### ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=light"/>
 </p>
 
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light"/>
 </p>
 
 ### ☁ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=light"/>
 </p>
 
 ### 🎨 Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
-<img width="48" src="https://cdn.simpleicons.org/framer/ffffff"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=light"/>
+<img width="48" src="https://cdn.simpleicons.org/framer/333333"/>
 </p>
 
 ---
@@ -76,15 +76,15 @@ const aphichaya = {
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Ameyukiko&show_icons=true&theme=transparent&hide_border=true&title_color=FF8FAB&text_color=6D6875&icon_color=FFB703"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameyukiko&layout=compact&theme=transparent&hide_border=true&title_color=FF8FAB&text_color=6D6875"/>
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Ameyukiko&theme=transparent&hide_border=true&ring=FF8FAB&fire=FFB703&currStreakLabel=FF8FAB"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ameyukiko&theme=flat&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ameyukiko&bg_color=ffffff&color=FF8FAB&line=B5EAEA&point=CDB4DB&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -108,18 +108,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ameyukiko/Ameyukiko/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-# 💼 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🌐 Project Name | Short description | Next.js · Tailwind |
-| 📱 Project Name | Short description | Vue · Express |
-| 🎨 Project Name | Short description | Figma · UX/UI |
 
 ---
 
@@ -134,6 +124,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ### ✨ *"Design with empathy. Build with purpose."*
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Ameyukiko&style=flat-square&color=ff8fab)
 
 </p>
