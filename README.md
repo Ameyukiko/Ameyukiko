@@ -1,129 +1,105 @@
-<!-- ========================= Banner ========================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:B5FFFC,100:CDB4DB&height=240&section=header&text=Aphichaya%20Suppakitkumjorn&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
+# 👋 Hi, I'm **Aphichaya Suppakitkumjorn**
+
+### 💻 Software Engineering Student | 🎨 UX/UI Designer | 🚀 Full-Stack Developer
+
+<p>
+Passionate about building modern, responsive, and user-centered web applications.<br>
+I love transforming ideas into beautiful digital experiences through clean code,
+creative design, and intuitive user experiences.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF8FAB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;UX%2FUI+Designer;Front-end+Developer;Full-Stack+Web+Developer;Designing+Beautiful+User+Experiences" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/aphichaya-sup">
-    <img src="https://img.shields.io/badge/LinkedIn-B5EAEA?style=for-the-badge&logo=linkedin&logoColor=333333"/>
-  </a>
-  <a href="mailto:y.eepun@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-FFB5C2?style=for-the-badge&logo=gmail&logoColor=333333"/>
-  </a>
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 Software Engineering Student
+
+🎨 Passionate about **UX/UI Design** & **Product Design**
+
+💻 Interested in **Frontend** & **Full-Stack Web Development**
+
+🌱 Currently learning **Cloud Computing, System Design, and Modern Web Technologies**
+
+✨ Love creating clean, responsive, and user-friendly applications
+
+📫 **Email:** **y.eepun@hotmail.com**
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aphichaya-sup" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 </p>
 
 ---
 
-# 🌷 About Me
-
-```ts
-const aphichaya = {
-    education: "Software Engineering",
-    interests: [
-        "UX/UI Design",
-        "Front-end Development",
-        "Full Stack Development",
-        "Responsive Web Design"
-    ],
-    style: "Clean, colorful and user-friendly experiences"
-}
-```
-
----
-
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nextjs,tailwind,bootstrap&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙ Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=light"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-### 🗄 Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### ☁ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=light"/>
-</p>
-
-### 🎨 Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma&theme=light"/>
-<img width="48" src="https://cdn.simpleicons.org/framer/333333"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,figma,framer,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Ameyukiko&show_icons=true&theme=transparent&hide_border=true&title_color=FF8FAB&text_color=6D6875&icon_color=FFB703"/>
+![](https://github-readme-stats.vercel.app/api?username=Ameyukiko&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameyukiko&layout=compact&theme=transparent&hide_border=true&title_color=FF8FAB&text_color=6D6875"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ameyukiko&theme=tokyonight&hide_border=true)
 
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameyukiko&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ameyukiko&theme=transparent&hide_border=true&ring=FF8FAB&fire=FFB703&currStreakLabel=FF8FAB"/>
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ameyukiko&theme=flat&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
 
----
+![](https://github-profile-trophy.vercel.app/?username=Ameyukiko&theme=tokyonight&no-frame=true&row=1&column=7)
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ameyukiko&bg_color=ffffff&color=FF8FAB&line=B5EAEA&point=CDB4DB&area=true&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 💡 Quote
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ameyukiko/Ameyukiko/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
 
----
+> *"Design is intelligence made visible. Code is creativity brought to life."*
 
-# 📫 Contact
-
-- 📧 **Email:** y.eepun@hotmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/aphichaya-sup
-
----
-
-<p align="center">
-
-### ✨ *"Design with empathy. Build with purpose."*
-
-![](https://komarev.com/ghpvc/?username=Ameyukiko&style=flat-square&color=ff8fab)
-
-</p>
+</div>
