@@ -29,7 +29,7 @@ creative design, and intuitive user experiences.
 - 💻 Interested in **Frontend** & **Full-Stack Web Development**
 - 🌱 Currently learning **Cloud Computing, System Design & Modern Web Technologies**
 - ✨ Love creating clean, responsive, and user-friendly applications
-- 📫 **Email:** **y.eepun@hotmail.com**
+- 📫 **Email:** **Aphichaya_sup@hotmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
