@@ -37,6 +37,10 @@ creative design, and intuitive user experiences.
 
 <p align="center">
 
+<a href="https://yp-portfolio.framer.website/">
+<img src="https://img.shields.io/badge/Portfolio-FF8FAB?style=for-the-badge&labelColor=FF8FAB"/>
+</a>
+
 <a href="https://linkedin.com/in/aphichaya-sup">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -46,7 +50,6 @@ creative design, and intuitive user experiences.
 </a>
 
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 # 🚀 Tech Stack
