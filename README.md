@@ -8,7 +8,7 @@
 
 <br>
 
-### 💻 Software Engineering Student | 🎨 UX/UI Designer | 🚀 Full-Stack Developer
+### 💻 Software Engineering Student | 🎨 UX/UI Designer | 🚀 Developer  
 
 Passionate about building modern, responsive, and user-centered web applications.<br>
 I love transforming ideas into beautiful digital experiences through clean code,
